@@ -9,6 +9,7 @@ I will Upload My LeetCode work here!
 | [0001-two-sum](https://github.com/HridayPatel0575/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HridayPatel0575/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/HridayPatel0575/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
