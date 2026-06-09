@@ -7,6 +7,7 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HridayPatel0575/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HridayPatel0575/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ I will Upload My LeetCode work here!
 | ------- |
 | [0001-two-sum](https://github.com/HridayPatel0575/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HridayPatel0575/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +37,16 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HridayPatel0575/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
