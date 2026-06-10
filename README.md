@@ -7,6 +7,7 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HridayPatel0575/LeetCode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HridayPatel0575/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -49,4 +50,8 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HridayPatel0575/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
