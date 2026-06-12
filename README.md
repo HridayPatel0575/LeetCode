@@ -29,11 +29,13 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HridayPatel0575/LeetCode/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,4 +56,5 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
