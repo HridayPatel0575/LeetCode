@@ -26,6 +26,7 @@ I will Upload My LeetCode work here!
 | [0009-palindrome-number](https://github.com/HridayPatel0575/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HridayPatel0575/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/HridayPatel0575/LeetCode/tree/master/2752-sum-multiples) |
 ## String
 |  |
@@ -41,6 +42,7 @@ I will Upload My LeetCode work here!
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
+| [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,4 +68,8 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HridayPatel0575/LeetCode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
