@@ -7,7 +7,7 @@ public:
             if(nums[i]==0){
                 cont++;
             }
-            else if(nums[i]!=0){
+            else{
                 long n = cont;
                 count = count+n*(n+1)/2;
                 cont=0;
