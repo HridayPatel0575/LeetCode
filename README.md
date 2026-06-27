@@ -16,6 +16,7 @@ I will Upload My LeetCode work here!
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/HridayPatel0575/LeetCode/tree/master/0414-third-maximum-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HridayPatel0575/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/HridayPatel0575/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ I will Upload My LeetCode work here!
 | [0009-palindrome-number](https://github.com/HridayPatel0575/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HridayPatel0575/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/HridayPatel0575/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/HridayPatel0575/LeetCode/tree/master/2752-sum-multiples) |
 ## String
