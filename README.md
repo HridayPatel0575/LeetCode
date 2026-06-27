@@ -16,6 +16,7 @@ I will Upload My LeetCode work here!
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/HridayPatel0575/LeetCode/tree/master/0414-third-maximum-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HridayPatel0575/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HridayPatel0575/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ I will Upload My LeetCode work here!
 | [0009-palindrome-number](https://github.com/HridayPatel0575/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HridayPatel0575/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HridayPatel0575/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/HridayPatel0575/LeetCode/tree/master/2752-sum-multiples) |
@@ -48,6 +50,7 @@ I will Upload My LeetCode work here!
 | [0189-rotate-array](https://github.com/HridayPatel0575/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HridayPatel0575/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
@@ -71,6 +74,7 @@ I will Upload My LeetCode work here!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Trie
 |  |
 | ------- |
@@ -79,4 +83,8 @@ I will Upload My LeetCode work here!
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/HridayPatel0575/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HridayPatel0575/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
