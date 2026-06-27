@@ -39,6 +39,7 @@ I will Upload My LeetCode work here!
 | [0014-longest-common-prefix](https://github.com/HridayPatel0575/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/HridayPatel0575/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/HridayPatel0575/LeetCode/tree/master/0392-is-subsequence) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/HridayPatel0575/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Two Pointers
 |  |
 | ------- |
